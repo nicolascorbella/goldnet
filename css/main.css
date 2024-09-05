@@ -1,0 +1,13 @@
+body {
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+body h1 {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: white;
+  padding: 20px;
+}
+
+/*# sourceMappingURL=main.css.map */
