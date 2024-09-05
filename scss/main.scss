@@ -1,0 +1,13 @@
+@import 'variables';
+@import 'mixins';
+
+body {
+    background-color: $primary-color;
+    font-family: Arial, sans-serif;
+
+    h1 {
+        @include border-radius(10px);
+        color: white;
+        padding: 20px;
+    }
+}
